@@ -20,7 +20,3 @@ Following are the technologies and frameworks that would be used for developing 
 
 
 The following project will be made using Convolutional Neural Networks (or CNNs) and other Deep Learning and Computer Vision concepts. It will detect in real-time and will also work on static image as well as video whether a person is wearing a mask or not, and if not will send a message to the console followed by an alarm sound sending an alert if people are not following rules by not wearing a face mask.
-
-Following is the plot of Accuracy and Training Loss on the dataset:
-
-![alt text](https://github.com/ArgonArnav/Face_Mask_Detector/blob/master/plot.png)
